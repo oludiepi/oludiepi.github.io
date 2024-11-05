@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oludiepi.github.io/GNa/sitemap_index.txt
+Sitemap: https://oludiepi.github.io/Tld/sitemap_index.txt
+Sitemap: https://oludiepi.github.io/dPy/sitemap_index.txt
+Sitemap: https://oludiepi.github.io/wHZ/sitemap_index.txt
